@@ -60,7 +60,7 @@
         .form-container button{
             width: 14rem;
             height: 3rem;
-            background: #496CE8;
+            background: #529df6;
             color: white;
             border: none;
             outline: 0;

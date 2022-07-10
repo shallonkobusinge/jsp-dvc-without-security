@@ -64,7 +64,7 @@
             font-size: 16px;
         }
         .modification-buttons:hover{
-            background: #496CE8;
+            background: #529df6;
             color: white;
             cursor: pointer;
         }

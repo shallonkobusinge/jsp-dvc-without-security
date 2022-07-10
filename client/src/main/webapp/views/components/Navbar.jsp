@@ -19,7 +19,7 @@
             flex-direction: row;
             height: 3rem;
             width: 100%;
-            background: #496CE8;
+            background: #529df6;
             justify-content: space-between;
             padding: 10px;
         }
